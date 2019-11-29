@@ -22,7 +22,7 @@ WeatherController: the logic of outputting the weather passes through this class
 
 OpenWeatherMapService: open weather map service class
 
-helpers(not a class): functions that are maybe be needed throughout the app should be added to this class
+helpers(not a class): functions that are maybe be needed throughout the app should be added to this file
 
 # External Packages:
 Composer: Obviously
