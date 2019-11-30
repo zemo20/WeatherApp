@@ -8,7 +8,10 @@ Weather reading application
 2-composer install
 
 
-3-php index.php and follow the instruction
+3-copy to .env.example to .env and add your openweathermap api key
+
+
+4-run php index.php and follow the instruction
 
 # Project structure
 app: the application logic
